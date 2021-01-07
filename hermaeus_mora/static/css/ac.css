@@ -1,0 +1,50 @@
+#chars_number {
+    font-size: 16pt;
+    width: 50px;
+}
+
+#chars_sl_number {
+    font-size: 16pt;
+    width: 50px;
+}
+
+#count_label {
+}
+
+button {
+    font-size: 16pt;
+    font-family: "Times New Roman";
+    margin: auto;
+}
+
+.cound_selection {
+    font-size: 16pt;
+    font-family: "Times New Roman";
+}
+.charInput {
+    font-size: 16pt;
+    font-family: "Times New Roman";
+    margin: 5px;
+    width: 20px;
+
+}
+#letters {
+    overflow-x: auto;
+    margin: auto;
+    display: flex;
+    width: 100%;
+}
+
+.guessing_form {
+    text-align:center;
+    width: fit-content;
+    margin: auto;
+}
+
+.possible_letters {
+    margin-top: 15px;
+}
+
+.cound_selection {
+    margin-top: 15px;
+}
